@@ -2,7 +2,7 @@
 import Card from "./Shared/Card.vue";
 </script>
 <template>
-  <section class="container mx-auto py-8">
+  <section class="container px-6 py-10 mx-auto">
     <div
       class="grid grid-cols-1 gap-8 mt-8 md:mt-16 md:grid-cols-2 xl:grid-cols-3"
     >
